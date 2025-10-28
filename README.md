@@ -11,7 +11,7 @@ It demonstrates the ability to transform a static layout into a dynamic, user-fr
 
 This project showcases practical front-end development skills focused on usability, responsiveness, and clean code architecture.
 
-## ⚙️ Key Features
+## Key Features
 
 -Dynamic generation of the navigation bar based on page content
 
@@ -23,7 +23,7 @@ This project showcases practical front-end development skills focused on usabili
 
 -Structured and commented code following best practices
 
-## 🧩 Technologies Used
+## Technologies Used
 
   HTML5 – Semantic and accessible structure
 
@@ -31,7 +31,7 @@ This project showcases practical front-end development skills focused on usabili
 
   JavaScript (ES6) – DOM manipulation and interactivity
 
-## 📁 Project Structure
+## Project Structure
 landing-page/
 │
 ├── index.html
@@ -41,7 +41,7 @@ landing-page/
 │   └── app.js
 └── README.md
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Mastery of DOM traversal and event-driven programming
 
@@ -50,7 +50,7 @@ Creating responsive and interactive front-end components
 Strengthening understanding of web architecture and usability principles
 
 
-## 💡 How to Use
+## How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/Maryam-Kandil/landing-page.git
@@ -58,13 +58,13 @@ Strengthening understanding of web architecture and usability principles
 3. Launch index.html in your preferred browser.
 
 
-## 🧾 License
+## License
 This project is open source and available under the MIT License.
   
-## 🌍 Live Demo
+## Live Demo
 
 🔗 View Live Project (https://Maryam-Kandil.github.io/landing-page/)
 
-## 👩‍💻 Author
+## Author
 
 Maryam Kandil
