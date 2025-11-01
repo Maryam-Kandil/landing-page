@@ -58,13 +58,10 @@ Strengthening understanding of web architecture and usability principles
 3. Launch index.html in your preferred browser.
 
 
-## License
-This project is open source and available under the MIT License.
   
 ## Live Demo
 
 🔗 View Live Project (https://Maryam-Kandil.github.io/landing-page/)
 
 ## Author
-
-Maryam Kandil
+**Maryam Kandil:** Software engineer 
