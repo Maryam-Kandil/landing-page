@@ -64,4 +64,7 @@ Strengthening understanding of web architecture and usability principles
 🔗 View Live Project (https://Maryam-Kandil.github.io/landing-page/)
 
 ## Author
-**Maryam Kandil:** Software engineer 
+
+**Maryam Kandil**  
+Curious and driven **software engineer** exploring the intersection of **AI**, **web apps**, and **IoT innovation**.  
+Passionate about turning ideas into **interactive, intelligent systems** that make technology more human.
